@@ -1,0 +1,32 @@
+{
+  "name": "grunt-kss-search",
+  "version": "0.1.0",
+  "description": "Grunt Plugin for KSS Search Indexer",
+  "publishConfig": {
+    "registry": "http://packages:8889"
+  },
+  "keywords": "gruntplugin",
+  "main": "tasks/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eventbrite/grunt-kss-search.git"
+  },
+  "contributors": [
+    {
+      "name": "Kevin Stone",
+      "url": "https://github.com/kevinastone"
+    }
+  ],
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/eventbrite/grunt-kss-search/issues"
+  },
+  "homepage": "https://github.com/eventbrite/grunt-kss-search",
+  "dependencies": {
+    "q": "^1.0.1",
+    "kss-search": "http://packages:8889/package/kss-search/latest"
+  }
+}

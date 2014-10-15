@@ -1,0 +1,15 @@
+# Vim
+*~
+*.swp
+*.swo
+
+# npm
+node_modules/
+npm-debug.log
+
+# Campass
+.sass-cache
+.DS_Store
+
+# KSS Search Working Files
+kss-index.json
