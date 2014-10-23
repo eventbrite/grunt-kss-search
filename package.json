@@ -2,7 +2,13 @@
   "name": "grunt-kss-search",
   "version": "0.1.1",
   "description": "Grunt Plugin for KSS Search Indexer",
-  "keywords": "gruntplugin",
+  "keywords": [
+    "kss",
+    "styleguide",
+    "search",
+    "index",
+    "gruntplugin"
+  ],
   "main": "tasks/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
