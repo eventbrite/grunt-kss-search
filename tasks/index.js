@@ -7,7 +7,7 @@
 
     module.exports = function(grunt) {
 
-        grunt.registerMultiTask('kss-index', 'Index KSS documented stylesheets', function() {
+        grunt.registerMultiTask('kssindex', 'Index KSS documented stylesheets', function() {
 
             var options = this.options({
                 index: null,
