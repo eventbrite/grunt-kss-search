@@ -35,6 +35,6 @@
   "homepage": "https://github.com/eventbrite/grunt-kss-search",
   "dependencies": {
     "q": "^1.0.1",
-    "kss-search": "^0.2.1"
+    "kss-search": "git://github.com/eventbrite/kss-search.git#9feae0b6362d9392f7bb8e90a2c79016b0b58892"
   }
 }
